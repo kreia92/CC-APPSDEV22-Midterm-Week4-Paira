@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentRosterDbApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdf3c40c199edca2674d92b39077fbba90420c66")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentRosterDbApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentRosterDbApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
